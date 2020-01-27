@@ -1,0 +1,38 @@
+.navbar {
+  background-color: #2e7c31;
+  color: white;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+#bookTitle {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+#author {
+  color: #333842;
+}
+
+#bookController {
+  background-color: #2e7c31;
+  padding: 30px;
+  width: 35px;
+  height: 35px;
+  font-size: 18px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+}
+
+#bookDiv {
+  height: 360px;
+  width: 200px;
+}
