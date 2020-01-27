@@ -15,7 +15,7 @@
   color: #333842;
 }
 
-#bookController {
+#bookController, #addDiv {
   background-color: #2e7c31;
   padding: 30px;
   width: 35px;
@@ -36,3 +36,4 @@
   height: 360px;
   width: 200px;
 }
+
